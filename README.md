@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cohet3&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub Profile](https://github-profile-tropico.vercel.app/?username=cohet3)
+
 
 - 🔭 Actualmente estoy trabajando en [React](https://github.com/cohet3/React)
 - 🌱 Actualmente estoy aprendiendo **JavaScript**
