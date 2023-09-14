@@ -16,7 +16,7 @@
 - 📄 Conoce mis experiencias [en Canva](https://www.canva.com/design/DAEvcMWr8c4/tivlf2RYIVliQfqulRU1hQ/edit?utm_content=DAEvcMWr8c4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - ⚡ Dato curioso: Inversiones, Criptos, codificación, Machine Learning.
 
-## Conéctate conmigo:
+## Conéctate:
 
 <!-- Aquí puedes agregar enlaces a tus perfiles de redes sociales -->
 
