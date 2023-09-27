@@ -5,7 +5,7 @@
 
 
 
-- 🛠️ Actualmente estoy trabajando en [React](https://github.com/cohet3/React)
+- 🛠️ Actualmente estoy trabajando en BiLogoReact[React](https://github.com/cohet3/React)
 - ⛹🏻️ Actualmente estoy aprendiendo **JavaScript**
 - 😎 Estoy buscando colaborar en **Data Analyst 🤖, IA 🦾**
 - 🤝 Estoy buscando ayuda con **Desarrollo 🦿**
