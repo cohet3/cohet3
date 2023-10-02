@@ -19,7 +19,7 @@
  [LinkedIn] https://www.linkedin.com/in/danny-rodas-galarza-678b5ba7
 <!-- Aquí puedes agregar enlaces a tus perfiles de redes sociales -->
 
-## Idiomas y herramientas:
+## Idiomas y herramienta:
 
 <!-- Aquí puedes agregar los íconos de las tecnologías con las que trabajas -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cohet3&show_icons=true&locale=en&layout=compact" alt="cohet3" /> </p>
