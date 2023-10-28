@@ -14,7 +14,7 @@
 - 📄 Conoce mis experiencias [en Canva](https://www.canva.com/design/DAEvcMWr8c4/tivlf2RYIVliQfqulRU1hQ/edit?utm_content=DAEvcMWr8c4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - ⚡ Dato curioso: Inversiones, codificación, Machine Learning, Running
 
-## Conéctate 🔌
+## Conéctate   🔌
 
  [LinkedIn] https://www.linkedin.com/in/danny-rodas-galarza-678b5ba7
 <!-- Aquí puedes agregar enlaces a tus perfiles de redes sociales -->
