@@ -5,8 +5,8 @@
 
 
 
-- 🛠️ Actualmente estoy trabajando  [React](https://github.com/cohet3/React)
-- ⛹🏻️ Actualmente estoy aprendiendo **JavaScript**
+- 🛠️ Actualmente estoy trabajando  [Java](https://github.com/cohet3/JavaCursoSEPE)
+- ⛹🏻️ Actualmente estoy aprendiendo **Java**
 - 😎 Estoy buscando colaborar en **Data Analyst 🤖, IA 🦾**
 - 🤝 Estoy buscando ayuda con **Desarrollo 🦿**
 - 📲 Todos mis proyectos están disponibles en [GitHub](https://github.com/cohet3)
