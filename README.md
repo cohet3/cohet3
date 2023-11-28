@@ -26,4 +26,4 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cohet3&show_icons=true&locale=en" alt="cohet3" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cohet3&" alt="cohet3" /></p>
-<!-- Agrega tus estadísticas de GitHub si lo deseas -->
+<!-- Agreg tus estadísticas de GitHub si lo deseas -->
