@@ -8,12 +8,12 @@
 
 
 
- 🛠️ I am currently working on  [Java](https://github.com/cohet3/JavaCursoSEPE)
- ⛹🏻️ I'm currently learning **Java**
- 😎 I am looking to collaborate in **Data Analyst 🤖, IA 🦾**
- 📲 All my projects are available on GitHub [GitHub](https://github.com/cohet3)
- 📄 Learn about my experiences in [en Canva](https://www.canva.com/design/DAEuuHcBQYc/SZJiQ8385WiZi9sGbP6ftA/edit?utm_content=DAEuuHcBQYc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
- ⚡ Fun fact: Investments, coding, Machine Learning, Running..
+ - 🛠️ I am currently working on  [Java](https://github.com/cohet3/JavaCursoSEPE)
+ - ⛹🏻️ I'm currently learning **Java**
+ - 😎 I am looking to collaborate in **Data Analyst 🤖, IA 🦾**
+ - 📲 All my projects are available on GitHub [GitHub](https://github.com/cohet3)
+ - 📄 Learn about my experiences in [en Canva](https://www.canva.com/design/DAEuuHcBQYc/SZJiQ8385WiZi9sGbP6ftA/edit?utm_content=DAEuuHcBQYc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ - ⚡ Fun fact: Investments, coding, Machine Learning, Running..
 
 <div align="center">
 
