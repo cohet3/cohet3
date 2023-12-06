@@ -1,6 +1,6 @@
 
-<h1> Hola 🤗, soy Danny </h1>
-<h2 aling="left"> Un desarrollador de Madrid </h2>
+<h1> Hi 🤗, I'm Danny </h1>
+<h2 aling="left"> A developer from Madrid </h2>
 <div align="center">
 <img class="nowebp-fullsize-gif" src="https://usagif.com/wp-content/uploads/gif-christmas-tree-42.gif" align="center" width="250" height="250" background="#000000" alt="gif-christmas-tree-42"></div>
 
@@ -8,17 +8,16 @@
 
 
 
-- 🛠️ Actualmente estoy trabajando  [Java](https://github.com/cohet3/JavaCursoSEPE)
-- ⛹🏻️ Actualmente estoy aprendiendo **Java**
-- 😎 Estoy buscando colaborar en **Data Analyst 🤖, IA 🦾**
-- 🤝 Estoy buscando ayuda con **Desarrollo 🦿**
-- 📲 Todos mis proyectos están disponibles en [GitHub](https://github.com/cohet3)
-- 📄 Conoce mis experiencias [en Canva](https://www.canva.com/design/DAEvcMWr8c4/tivlf2RYIVliQfqulRU1hQ/edit?utm_content=DAEvcMWr8c4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- ⚡ Dato curioso: Inversiones, codificación, Machine Learning, Runing.
+ 🛠️ I am currently working on  [Java](https://github.com/cohet3/JavaCursoSEPE)
+ ⛹🏻️ I'm currently learning **Java**
+ 😎 I am looking to collaborate in **Data Analyst 🤖, IA 🦾**
+ 📲 All my projects are available on GitHub [GitHub](https://github.com/cohet3)
+ 📄 Learn about my experiences in [en Canva](https://www.canva.com/design/DAEuuHcBQYc/SZJiQ8385WiZi9sGbP6ftA/edit?utm_content=DAEuuHcBQYc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ ⚡ Fun fact: Investments, coding, Machine Learning, Running..
 
 <div align="center">
 
-## Conéctate   🔌
+## Connect   🔌
   <a href="https://www.linkedin.com/in/danny-rodas-galarza-678b5ba7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -47,10 +46,10 @@
 
 
 <!-- Aquí puedes agregar los íconos de las tecnologías con las que trabajas <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="http://gifs.gratis.es/agua/fuentes/fuente-peq-gifs.gif"> fuente de agua-->
-<p background="#000000"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cohet3&show_icons=true&locale=en&layout=compact" alt="cohet3" /> </p>
+<p><img  background="#000000" src="https://github-readme-stats.vercel.app/api/top-langs?username=cohet3&show_icons=true&locale=en&layout=compact" alt="cohet3" /> </p>
 
-<p background="#000000">> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cohet3&show_icons=true&locale=en" alt="cohet3" /> </p>
+<p><img align="center" background="#000000" src="https://github-readme-stats.vercel.app/api?username=cohet3&show_icons=true&locale=en" alt="cohet3" /> </p>
 
-<p background="#000000">><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cohet3&" alt="cohet3" /> </p>
+<p><img align="center" background="#000000" src="https://github-readme-streak-stats.herokuapp.com/?user=cohet3&" alt="cohet3" /> </p>
 <!-- Agreg tus estadísticas de GitHub si lo deseas -->
 </div>
