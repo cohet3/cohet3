@@ -1,3 +1,4 @@
+<div align="center">
 # Hola 🤗, soy Danny
 ## Un desarrollador de Madrid 🌎
 
@@ -46,3 +47,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cohet3&" alt="cohet3" /></p>
 <!-- Agreg tus estadísticas de GitHub si lo deseas -->
+</div>
