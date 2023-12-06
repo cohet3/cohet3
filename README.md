@@ -1,6 +1,6 @@
 
 <h1> Hola 🤗, soy Danny </h1>
-<h2 aling="right"> Un desarrollador de Madrid 🌎 </h2>
+<h2 aling="left"> Un desarrollador de Madrid 🌎 </h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cohet3&label=Profile%20views&color=0e75b6&style=flat)
 
