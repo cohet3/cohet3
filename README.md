@@ -44,7 +44,7 @@
 <br>
 
 
-<!-- Aquí puedes agregar los íconos de las tecnologías con las que trabajas -->
+<!-- Aquí puedes agregar los íconos de las tecnologías con las que trabajas <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="http://gifs.gratis.es/agua/fuentes/fuente-peq-gifs.gif"> fuente de agua-->
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=cohet3&show_icons=true&locale=en&layout=compact" alt="cohet3" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cohet3&show_icons=true&locale=en" alt="cohet3" /> </p>
