@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 </div>
+<br>
 
 
 <!-- Aquí puedes agregar los íconos de las tecnologías con las que trabajas -->
