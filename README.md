@@ -1,9 +1,9 @@
 
 <h1> Hola 🤗, soy Danny </h1>
 <h2 aling="left"> Un desarrollador de Madrid </h2>
-<div aling="center">
+
 <img class="nowebp-fullsize-gif" src="https://usagif.com/wp-content/uploads/gif-christmas-tree-42.gif" aling="center" width="250" height="250" background="#000000" alt="gif-christmas-tree-42">
-</div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=cohet3&label=Profile%20views&color=0e75b6&style=flat)
 
 
