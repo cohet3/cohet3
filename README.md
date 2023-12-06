@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/Flask-38B2AC?style=for-the-badge&logo=flask&logoColor=white" alt="flask">
-  <img src="https://img.shields.io/badge/SQL?style=for-the-badge&logo=sql&logoColor=white" alt="SQl">
+  <img src="https://img.shields.io/badge/sql-563D7C?style=for-the-badge&logo=sql&logoColor=white" alt="sql">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
