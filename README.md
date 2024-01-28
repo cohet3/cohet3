@@ -1,8 +1,8 @@
 
 <h1> Hi 🤗, I'm Danny </h1>
 <h2 aling="left"> A developer from Madrid </h2>
-<div align="center">
-<img class="nowebp-fullsize-gif" src="https://usagif.com/wp-content/uploads/gify/galaxy-two-yellow-interaction-usagif.gif"></div>
+<!--<div align="center">
+<img class="nowebp-fullsize-gif" src="https://usagif.com/wp-content/uploads/gify/galaxy-two-yellow-interaction-usagif.gif"></div>-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cohet3&label=Profile%20views&color=0e75b6&style=flat)
 <!--src="https://usagif.com/wp-content/uploads/gif-christmas-tree-42.gif"-->
