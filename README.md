@@ -8,8 +8,8 @@
 <!--src="https://usagif.com/wp-content/uploads/gif-christmas-tree-42.gif"-->
 
 
- - 🛠️ I am currently working on Devian/Linux
- - ⛹🏻️ I'm currently learning **CiberSegurity**
+ - 🛠️ I am currently working on Jupiter Notebook 📊
+ - ⛹🏻️ I'm currently learning **Data Analist**
  - 😎 I am looking to collaborate in **All type Development 🤖, IA 🦾**
  - 📲 All my projects are available on GitHub [GitHub](https://github.com/cohet3)
  - ⚡ Fun fact: Investments, coding, Machine Learning, Running..
