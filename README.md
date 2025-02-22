@@ -8,11 +8,11 @@
 <!--src="https://usagif.com/wp-content/uploads/gif-christmas-tree-42.gif"-->
 
 
- - 🛠️ I am currently working on personal project 📊
- - ⛹🏻️ I'm currently learning **Microsoft Azure**
+ - 🛠️ I am currently working on data engineering 📊
+ - ⛹🏻️ I'm currently learning **Fabric Microsft**
  - 😎 I am looking to collaborate in **All type Development 🤖, IA 🦾**
  - 📲 All my projects are available on GitHub [GitHub](https://github.com/cohet3)
- - ⚡ Fun fact: Investments, coding, Machine Learning, Running..
+ - ⚡ Fun fact: Investments, coding, cybersecurity, machine Learning..
 
 <div align="center">
 
