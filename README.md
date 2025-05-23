@@ -6,6 +6,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cohet3&label=Profile%20views&color=0e75b6&style=flat)
 <!--src="https://usagif.com/wp-content/uploads/gif-christmas-tree-42.gif"-->
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
  - 🛠️ I am currently working on data engineering 📊
@@ -50,3 +52,4 @@
 <p><img align="center" background="#000000" src="https://github-readme-streak-stats.herokuapp.com/?user=cohet3&" alt="cohet3" /> </p>
 <!-- Agreg tus estadísticas de GitHub si lo deseas -->
 </div>
+
